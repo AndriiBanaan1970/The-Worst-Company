@@ -1,0 +1,29 @@
+nav {
+    background-color: #3c0045;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: rgb(0, 255, 255);
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #fffb00;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+}
